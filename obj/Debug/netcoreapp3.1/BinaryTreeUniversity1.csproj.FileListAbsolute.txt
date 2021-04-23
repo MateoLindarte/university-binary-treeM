@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\BinaryTreeUniversity1\BinaryTreeUniversity1\bin\Debug\netcoreapp3.1\BinaryTreeUniversity1.exe
+C:\Users\Lenovo\source\repos\BinaryTreeUniversity1\BinaryTreeUniversity1\bin\Debug\netcoreapp3.1\BinaryTreeUniversity1.deps.json
+C:\Users\Lenovo\source\repos\BinaryTreeUniversity1\BinaryTreeUniversity1\bin\Debug\netcoreapp3.1\BinaryTreeUniversity1.runtimeconfig.json
+C:\Users\Lenovo\source\repos\BinaryTreeUniversity1\BinaryTreeUniversity1\bin\Debug\netcoreapp3.1\BinaryTreeUniversity1.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\BinaryTreeUniversity1\BinaryTreeUniversity1\bin\Debug\netcoreapp3.1\BinaryTreeUniversity1.dll
+C:\Users\Lenovo\source\repos\BinaryTreeUniversity1\BinaryTreeUniversity1\bin\Debug\netcoreapp3.1\BinaryTreeUniversity1.pdb
+C:\Users\Lenovo\source\repos\BinaryTreeUniversity1\BinaryTreeUniversity1\obj\Debug\netcoreapp3.1\BinaryTreeUniversity1.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\BinaryTreeUniversity1\BinaryTreeUniversity1\obj\Debug\netcoreapp3.1\BinaryTreeUniversity1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\BinaryTreeUniversity1\BinaryTreeUniversity1\obj\Debug\netcoreapp3.1\BinaryTreeUniversity1.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BinaryTreeUniversity1\BinaryTreeUniversity1\obj\Debug\netcoreapp3.1\BinaryTreeUniversity1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BinaryTreeUniversity1\BinaryTreeUniversity1\obj\Debug\netcoreapp3.1\BinaryTreeUniversity1.dll
+C:\Users\Lenovo\source\repos\BinaryTreeUniversity1\BinaryTreeUniversity1\obj\Debug\netcoreapp3.1\BinaryTreeUniversity1.pdb
+C:\Users\Lenovo\source\repos\BinaryTreeUniversity1\BinaryTreeUniversity1\obj\Debug\netcoreapp3.1\BinaryTreeUniversity1.genruntimeconfig.cache
